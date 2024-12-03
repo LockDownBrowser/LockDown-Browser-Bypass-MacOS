@@ -27,7 +27,7 @@ respondus wont access your personal computer/its contents
 
 -**float browser with screen recording disabled**
 
--**Forcefully keep Lockdown Browser Windowed/Unfocused on MacOS (use at your own risk**
+-**forcefully keep Lockdown Browser Windowed/Unfocused on MacOS (use at your own risk**
 ---------------------------------------
 
 # newer MacOS Bypass coming soon #
