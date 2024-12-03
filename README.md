@@ -1,6 +1,6 @@
 # Respondus LockDown Browser Bypass For MacOS/Windows
 
-**NOTE: this bypass is free and requires a VM (virtual machine) and was created solely because running respondus LockDown Browser on your personal computer appears to be a horrible decision due to multiple reports of malfunctions/breaks that this safe exam application provides.**
+**NOTE: this bypass is free and was created solely because running respondus LockDown Browser on your personal computer appears to be a horrible decision due to multiple reports of malfunctions/breaks that this safe exam application provides.**
 
 respondus uses private apis (undocumented functions that aren't supported/known for ruining devices if not used properly and has questionable functions like grabNotifications , sleepExploit() and many more, the use of private apis have ruined alot of computers driving them to factory reset it forcefully and i am one of the victims of this horrific unfortunate mischievous act.
 
