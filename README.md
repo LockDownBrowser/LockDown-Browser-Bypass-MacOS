@@ -44,5 +44,5 @@ https://discord.gg/Cqn7BYqptW
 
 # update 2/1/2025 #
 
-** new LDB 2.3 update Bypassed With Float (MacOS users) **
-** all bypasses still work to this day, adding more next week **
+**new LDB 2.3 update Bypassed With Float (MacOS users)**
+**all bypasses still work to this day, adding more next week**
