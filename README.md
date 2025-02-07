@@ -19,7 +19,7 @@ with all detection methods blocked !**
 
 **✅ future support for any update / feature requested by you guys**
 
-# HotKeys :#
+# HotKeys : #
 
 **✅ screenshot ```cmd + e```** 
 
