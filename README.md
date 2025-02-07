@@ -1,6 +1,6 @@
 # LockDown Browser Bypass For MacOS Users !! #
 
-**this is your modern macos bypass for macOS, it allows you to search/use ChatGPT (or any other AI) during an exam
+**this is Respondus Lockdown Browser bypass for macOS, it allows you to search/use ChatGPT (or any other AI) during an exam
 with all detection methods blocked !**
 
 # features : #
