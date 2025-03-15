@@ -32,4 +32,4 @@ with all detection methods blocked !**
 
 # how can i get the bypass? #
 
-https://discord.gg/Cqn7BYqptW
+https://discord.gg/h4UGFsjzgk
